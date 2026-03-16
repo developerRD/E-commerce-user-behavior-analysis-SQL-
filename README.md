@@ -21,3 +21,13 @@ This project uses a Kaggle dataset to simulate a real-world e-commerce environme
 | order_value_usd | The bottom-line metric for calculating Average Order Value (AOV) and Total Revenue. |
 
 Link to dataset: https://www.kaggle.com/datasets/chaitanyajamble/global-e-commerce-user-behavior-and-conversion-data/data
+
+# SQL Results
+
+<img width="1194" height="229" alt="image" src="https://github.com/user-attachments/assets/a3543174-8c25-4392-bc71-4a0022e43f07" />
+
+# These initial results suggest the points below
+- Referral traffic is the highest in both total revenue, which is 13.6k and conversion 38% primarily by Mobile users. It  makes sense to focus on growing mobile referral channels.
+- Improve organic search improve the likelihood that interested visitors complete a purchase.
+- Desktop is the dominant device platform for almost all channnels meaning maintaining or improving a strong desktop checkout experience is essential for sustaining high revenue.
+  
