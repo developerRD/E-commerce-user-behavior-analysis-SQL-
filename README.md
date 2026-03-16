@@ -1,7 +1,7 @@
 # E-commerce-user-behavior-analysis-SQL-
 Developed a PostgreSQL-based summary using CTEs to analyze e-commerce behavior providing data driven recommendations 
 
-***! Codes are provided in the SQL codes folder***
+***! ! ! Please review: Codes are provided in the SQL codes folder demonstrating my knowledge of using CTEs, performing aggregations, grouping data, and using joins, finally combining CTEs into a single master summary table as shown below.***
 
 This project uses a Kaggle dataset to simulate a real-world e-commerce environment. The goal was to move beyond basic reporting and provide actionable recommendations to answer critical business questions, such as:
 
@@ -21,6 +21,9 @@ This project uses a Kaggle dataset to simulate a real-world e-commerce environme
 | order_value_usd | The bottom-line metric for calculating Average Order Value (AOV) and Total Revenue. |
 
 Link to dataset: https://www.kaggle.com/datasets/chaitanyajamble/global-e-commerce-user-behavior-and-conversion-data/data
+
+#Methods Applied
+
 
 # SQL Results
 
