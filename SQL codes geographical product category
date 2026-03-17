@@ -1,0 +1,11 @@
+-- geographical product category
+SELECT 
+    country,
+    product_category_viewed,
+    COUNT(session_id) AS total_sessions,
+    SUM(purchased) AS units_sold,
+    SUM(order_value_usd) AS total_revenue,
+    ROUND((SUM(purchased)::NUMERIC / NULLIF(COUNT(session_id), 0)) * 100, 2) AS category_conv_rate
+FROM "userr behaviour sessions"
+GROUP BY 1, 2
+ORDER BY country ASC, total_revenue DESC;
