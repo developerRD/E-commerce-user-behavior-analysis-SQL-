@@ -5,7 +5,7 @@ Developed a PostgreSQL-based summary using CTEs, Joins and aggregations to analy
 
 This project uses a Kaggle dataset to simulate a real-world e-commerce environment. The goal was to move beyond basic reporting and provide actionable recommendations to answer critical business questions, such as:
 
-* Which marketing channels are underperforming despite high traffic?
+* Which channels are underperforming despite high traffic?
 
 * Is there a significant "drop-off" between adding an item to the cart and completing a purchase?
 
